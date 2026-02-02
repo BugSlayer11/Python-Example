@@ -1,3 +1,5 @@
-Python Example
+Python Project
 
-1. Created a rock, paper, and scissors game using randomization and lists. (see attached video above)
+Created a rock, paper, and scissors game using randomization and lists.
+
+[Video](https://youtu.be/DYHdk3_EGVU)   
